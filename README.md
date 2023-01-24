@@ -20,7 +20,7 @@ cube.
 ## Step6:
 Print the predicted output.
 ## Program:
-
+```
 Developed by: P Sri Varshan
 Reg.No: 22008051
 import pandas as pd
@@ -34,7 +34,7 @@ print('Coefficients:', regr.coef_)
 print('Intercept:',regr.intercept_)
 predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
-
+```
 ### Output:
 ## Insert your output:
 ![image](https://user-images.githubusercontent.com/119875375/214352963-5b6f7875-d7a6-4c19-a40a-2e1e438e4fee.png)
