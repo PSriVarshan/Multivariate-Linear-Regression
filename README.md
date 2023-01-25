@@ -35,9 +35,9 @@ print('Intercept:',regr.intercept_)
 predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
-### Output:
-## Insert your output:
-![image](https://user-images.githubusercontent.com/119875375/214352963-5b6f7875-d7a6-4c19-a40a-2e1e438e4fee.png)
+## Output:
+
+![sri multi](https://user-images.githubusercontent.com/114944059/214641510-119a398e-01f9-4760-a64c-7534b66364e8.png)
 
 
 ## Result:
